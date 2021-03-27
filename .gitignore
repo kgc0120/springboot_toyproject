@@ -4,7 +4,12 @@
 .gradle
 .idea
 
-application-real-oauth.properties
+application.properties
+application-oauth.properties
+application-real.properties
+application-real1.properties
+application-real2.properties
+
 
 build
 out
